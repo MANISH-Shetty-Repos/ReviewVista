@@ -1,0 +1,347 @@
+[
+  {
+    "query": "bad coffee taste",
+    "top_reviews": [
+      "The coffee tastes as bad as it smells. I could barely bring myself to drink it.<br />I would never order this again.",
+      "Besides as fair share of misfires regarding the cup and brewing process (already documented by others) I still wanted this coffee to taste good.<br /><br />I even half convinced myself it did not taste all that bad, just different. However the overwhelming commentary from my household and those we shared this with, was it tasted off, like coffee mixed with dirt.<br /><br />I can usually forgive a bad cup of coffee once in a while and will even drink two day old microwaved coffee if I have to and not complain, but I am sorry, this was not good coffee.<br /><br />We did not buy based on price, but on the expectation we would get a solid cup of coffee for our 4 AM jolt of life.<br /><br />Now it could have been the batch or any other reason, I wont piss on the whole product line, however, but the coffee we recieved kinda blew.",
+      "This coffee tastes terrible. It's got a very chemically, acidic taste, and no matter what type of creamer I use to change the flavor, it's still terrible. I've learned the hard way - buy regular coffee and add flavored creamer later.",
+      "Taste bitter, in a bad way, some coffee taste bitter but smooth, not this one.  A hint of vanilla flavor but no coffee aroma at all.  I tried a few different way to make the coffe and no matter what I do, it just taste bad.",
+      "Bitter, bland and essentially bad.  That's what this coffee tastes like.<br /><br />It smells nice when you open it up, a chocolaty mix of coffee and cocoa, and it fills the room with a pleasant smell while you're brewing it.  It almost smells like a chocolate shop where someone is running a nice pot of coffee in the back, giving the whole place the aroma of a winter's morning in Geneva or something.  Gevalia is supposed to sound Swiss, right?<br /><br />Too bad it's Swedish.  Not Swiss.  And a good thing too, since this doesn't taste so much like a chocolate coffee as it tastes like someone stuffed your coffee maker full of truffles and ran some stagnant water through the pot.<br /><br />The best quality of the coffee is that the flavor is weak.  You have to really overfill your pot to get a strong sense of the flavor, but I would advise only doing this if you want your mouth, coffee cup and everything you drink for the next few days to taste like an old sock that someone might have once dropped into a puddle of spilled coffee and then sprinkled with stale chocolate chips.<br /><br />A normally brewed cup of this coffee has almost no flavor aside from the bitter sting of really bad generic coffee.  Once you amp it up a few notches you can really feel the caffeine, so I guess that's a perk at least.  If your hands are steady enough to drink a whole cup you'll enjoy the burnt flavor of the beans along with the sickly sweet chocolate flavor that is thrown in almost like an insult.<br /><br />Stay away from this coffee.  Even worse than the mail-order stuff Gevalia will try to scam on you for a free POS coffee maker, this stuff you have to pay extra for and you really pay the price of your stupidity if you drink it.<br /><br />It isn't that bad as a room scent though, so if you have an extra coffee maker laying around you could set this up to brew while you microwave almost any instant coffee that will taste better than this.  The smell will fool people into thinking that you're a real coffee expert, and it might even enhance the flavor of the instant through a synesthesia effect.<br /><br />Afterwards, you can take the brewed coffee and use it for cleaning old paint brushes or degreasing an engine.",
+      "I purchased this coffee based on all the positive feedback, but either I got some bad/old/expired bags or those that gave it 5 stars have no taste buds. This coffee tastes like dirty water. I even tried making it stronger than I usually do and it left a \"tinny\" aftertaste. I'm not even a coffee connoisseur. I'm going to stick with buying my coffee at the grocery store. At least I know what's fresh. And good.",
+      "This coffee doesn't taste bad, but it doesn't smell like coffee. If I put non dairy creamer in, it has a bad smell that stops me from drinking it at all. Still looking for a good strong coffee that I can enjoy.",
+      "This coffee doesn't taste bad, but it doesn't smell like coffee. If I put non dairy creamer in, it has a bad smell that stops me from drinking it at all. Still looking for a good strong coffee that I can enjoy.",
+      "This coffee doesn't taste bad, but it doesn't smell like coffee. If I put non dairy creamer in, it has a bad smell that stops me from drinking it at all. Still looking for a good strong coffee that I can enjoy.",
+      "Coffee has a real bitter taste, I bought 2 boxes of these and haven't finished 1 yet and I purchased these a couple of months ago. I am a regular coffee drinker and always trying different brands and flavors."
+    ],
+    "cluster_info": {
+      "dominant_cluster": 1,
+      "cluster_counts": {
+        "1": 9,
+        "11": 1
+      },
+      "top_clusters": [
+        [
+          1,
+          9
+        ],
+        [
+          11,
+          1
+        ]
+      ]
+    },
+    "insight": {
+      "dominant_theme": "Cluster 1",
+      "keywords": "flavor, taste, cup, strong, bold, roast, bitter, flavored, dark, vanilla",
+      "top_terms": [
+        "coffee",
+        "bad",
+        "taste",
+        "you",
+        "like",
+        "flavor",
+        "smell",
+        "not",
+        "have",
+        "doesnt"
+      ],
+      "sentiment": {
+        "positive_signals": 6,
+        "negative_signals": 9
+      },
+      "insight": "Users frequently discuss topics related to flavor, taste, cup, strong, bold, roast, bitter, flavored, dark, vanilla. Common terms include coffee, bad, taste, you, like. There is a noticeable trend of dissatisfaction, with users highlighting issues in quality, taste, or usability.",
+      "supporting_reviews": [
+        "The coffee tastes as bad as it smells. I could barely bring myself to drink it.<br />I would never order this again.",
+        "Besides as fair share of misfires regarding the cup and brewing process (already documented by others) I still wanted this coffee to taste good.<br /><br />I even half convinced myself it did not taste all that bad, just different. However the overwhelming commentary from my household and those we shared this with, was it tasted off, like coffee mixed with dirt.<br /><br />I can usually forgive a bad cup of coffee once in a while and will even drink two day old microwaved coffee if I have to and not complain, but I am sorry, this was not good coffee.<br /><br />We did not buy based on price, but on the expectation we would get a solid cup of coffee for our 4 AM jolt of life.<br /><br />Now it could have been the batch or any other reason, I wont piss on the whole product line, however, but the coffee we recieved kinda blew.",
+        "This coffee tastes terrible. It's got a very chemically, acidic taste, and no matter what type of creamer I use to change the flavor, it's still terrible. I've learned the hard way - buy regular coffee and add flavored creamer later.",
+        "Taste bitter, in a bad way, some coffee taste bitter but smooth, not this one.  A hint of vanilla flavor but no coffee aroma at all.  I tried a few different way to make the coffe and no matter what I do, it just taste bad.",
+        "Bitter, bland and essentially bad.  That's what this coffee tastes like.<br /><br />It smells nice when you open it up, a chocolaty mix of coffee and cocoa, and it fills the room with a pleasant smell while you're brewing it.  It almost smells like a chocolate shop where someone is running a nice pot of coffee in the back, giving the whole place the aroma of a winter's morning in Geneva or something.  Gevalia is supposed to sound Swiss, right?<br /><br />Too bad it's Swedish.  Not Swiss.  And a good thing too, since this doesn't taste so much like a chocolate coffee as it tastes like someone stuffed your coffee maker full of truffles and ran some stagnant water through the pot.<br /><br />The best quality of the coffee is that the flavor is weak.  You have to really overfill your pot to get a strong sense of the flavor, but I would advise only doing this if you want your mouth, coffee cup and everything you drink for the next few days to taste like an old sock that someone might have once dropped into a puddle of spilled coffee and then sprinkled with stale chocolate chips.<br /><br />A normally brewed cup of this coffee has almost no flavor aside from the bitter sting of really bad generic coffee.  Once you amp it up a few notches you can really feel the caffeine, so I guess that's a perk at least.  If your hands are steady enough to drink a whole cup you'll enjoy the burnt flavor of the beans along with the sickly sweet chocolate flavor that is thrown in almost like an insult.<br /><br />Stay away from this coffee.  Even worse than the mail-order stuff Gevalia will try to scam on you for a free POS coffee maker, this stuff you have to pay extra for and you really pay the price of your stupidity if you drink it.<br /><br />It isn't that bad as a room scent though, so if you have an extra coffee maker laying around you could set this up to brew while you microwave almost any instant coffee that will taste better than this.  The smell will fool people into thinking that you're a real coffee expert, and it might even enhance the flavor of the instant through a synesthesia effect.<br /><br />Afterwards, you can take the brewed coffee and use it for cleaning old paint brushes or degreasing an engine."
+      ]
+    },
+    "summary": {
+      "extractive": [
+        "The coffee tastes as bad as it smells. I could barely bring myself to drink it.<br />I would never order this again.",
+        "Besides as fair share of misfires regarding the cup and brewing process (already documented by others) I still wanted this coffee to taste good.<br /><br />I even half convinced myself it did not taste all that bad, just different. However the overwhelming commentary from my household and those we shared this with, was it tasted off, like coffee mixed with dirt.<br /><br />I can usually forgive a bad cup of coffee once in a while and will even drink two day old microwaved coffee if I have to and not complain, but I am sorry, this was not good coffee.<br /><br />We did not buy based on price, but on the expectation we would get a solid cup of coffee for our 4 AM jolt of life.<br /><br />Now it could have been the batch or any other reason, I wont piss on the whole product line, however, but the coffee we recieved kinda blew.",
+        "This coffee tastes terrible. It's got a very chemically, acidic taste, and no matter what type of creamer I use to change the flavor, it's still terrible. I've learned the hard way - buy regular coffee and add flavored creamer later."
+      ],
+      "short_summary": "Users share consistent feedback highlighting key product experience themes.",
+      "detailed_summary": "The coffee tastes as bad as it smells. I could barely bring myself to drink it.<br />I would never order this again. Besides as fair share of misfires regarding the cup and brewing process (already documented by others) I still wanted this coffee to taste good.<br /><br />I even half convinced myself it did not taste all that bad, just different. However the overwhelming commentary from my household and those we shared this with, was it tasted off, like coffee mixed with dirt.<br /><br />I can usually forgive a bad cup of coffee once in a while and will even drink two day old microwaved coffee if I have to and not complain, but I am sorry, this was not good coffee.<br /><br />We did not buy based on price, but on the expectation we would get a solid cup of coffee for our 4 AM jolt of life.<br /><br />Now it could have been the batch or any other reason, I wont piss on the whole product line, however, but the coffee we recieved kinda blew. This coffee tastes terrible. It's got a very chemically, acidic taste, and no matter what type of creamer I use to change the flavor, it's still terrible. I've learned the hard way - buy regular coffee and add flavored creamer later. Taste bitter, in a bad way, some coffee taste bitter but smooth, not this one.  A hint of vanilla flavor but no coffee aroma at all.  I tried a few different way to make the coffe and no matter what I do, it just taste bad. Bitter, bland and essentially bad.  That's what this coffee tastes like.<br /><br />It smells nice when you open it up, a chocolaty mix of coffee and cocoa, and it fills the room with a pleasant smell while you're brewing it.  It almost smells like a chocolate shop where someone is running a nice pot of coffee in the back, giving the whole place the aroma of a winter's morning in Geneva or something.  Gevalia is supposed to sound Swiss, right?<br /><br />Too bad it's Swedish.  Not Swiss.  And a good thing too, since this doesn't taste so much like a chocolate coffee as it tastes like someone stuffed your coffee maker full of truffles and ran some stagnant water through the pot.<br /><br />The best quality of the coffee is that the flavor is weak.  You have to really overfill your pot to get a strong sense of the flavor, but I would advise only doing this if you want your mouth, coffee cup and everything you drink for the next few days to taste like an old sock that someone might have once dropped into a puddle of spilled coffee and then sprinkled with stale chocolate chips.<br /><br />A normally brewed cup of this coffee has almost no flavor aside from the bitter sting of really bad generic coffee.  Once you amp it up a few notches you can really feel the caffeine, so I guess that's a perk at least.  If your hands are steady enough to drink a whole cup you'll enjoy the burnt flavor of the beans along with the sickly sweet chocolate flavor that is thrown in almost like an insult.<br /><br />Stay away from this coffee.  Even worse than the mail-order stuff Gevalia will try to scam on you for a free POS coffee maker, this stuff you have to pay extra for and you really pay the price of your stupidity if you drink it.<br /><br />It isn't that bad as a room scent though, so if you have an extra coffee maker laying around you could set this up to brew while you microwave almost any instant coffee that will taste better than this.  The smell will fool people into thinking that you're a real coffee expert, and it might even enhance the flavor of the instant through a synesthesia effect.<br /><br />Afterwards, you can take the brewed coffee and use it for cleaning old paint brushes or degreasing an engine. I purchased this coffee based on all the positive feedback, but either I got some bad/old/expired bags or those that gave it 5 stars have no taste buds. This coffee tastes like dirty water. I even tried making it stronger than I usually do and it left a \"tinny\" aftertaste. I'm not even a coffee connoisseur. I'm going to stick with buying my coffee at the grocery store. At least I know what's fresh. And good. This coffee doesn't taste bad, but it doesn't smell like coffee. If I put non dairy creamer in, it has a bad smell that stops me from drinking it at all. Still looking for a good strong coffee that I can enjoy. This coffee doesn't taste bad, but it doesn't smell like coffee. If I put non dairy creamer in, it has a bad smell that stops me from drinking it at all. Still looking for a good strong coffee that I can enjoy. This coffee doesn't taste bad, but it doesn't smell like coffee. If I put non dairy creamer in, it has a bad smell that stops me from drinking it at all. Still looking for a good strong coffee that I can enjoy. Coffee has a real bitter taste, I bought 2 boxes of these and haven't finished 1 yet and I purchased these a couple of months ago. I am a regular coffee drinker and always trying different brands and flavors."
+    }
+  },
+  {
+    "query": "dog treats too hard",
+    "top_reviews": [
+      "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+      "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+      "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+      "Neither I nor my dogs could get treats out of this! I shook it and rolled it every which way, nothing came out. It wasn't easy to load, either. I tried it with tiny treats, it made no difference.<br /><br />I tried a few different times, we couldn't get treats out of it, so the dogs quickly lost interest. My friend said it's her dog's favorite treat dispensing toy, so I gave her another one instead of tossing mine in the trash.",
+      "My dog doesn't like most treats, but loves these.  She gives them 4 paws up!<br /><br />The product arrived quickly and saved me a half-hour drive to a pet store.",
+      "My dog doesn't like most treats, but loves these.  She gives them 4 paws up!<br /><br />The product arrived quickly and saved me a half-hour drive to a pet store.",
+      "when I first received these doggie treats I was a little concern since they appeared to be TOO hard. My pup is 16 years old and missing a couple of teeth.  I gave her one, and she chowed down on it...and gave me the look...the look that says...more please...LOL...I lay out some milk bones and one of these treats..and she goes for Newman's first every time I tried it..",
+      "We don't have a dog, but we pet-sit for the neighbors and were hoping these treats would be welcome.  Sadly, the hound just pushed one around the floor and then abandoned it under the table.  Is it because they're so terribly hard ?  Is it some flavor (or lack of flavor) that only dogs can sense ?  Too bad the hound can't read and can't tell why these treats should be such a good healthy treat for him.",
+      "my dogs go crazy over these treats! As soon as I open the bag they are there at my feet waiting and has made training my puppy so easy cause he is willing to do anything to get a treat :)",
+      "I had a really picky dog who refuses any kind of biscuit type treat offered to him.  He eats some soft treats and loves these."
+    ],
+    "cluster_info": {
+      "dominant_cluster": 2,
+      "cluster_counts": {
+        "2": 9,
+        "13": 1
+      },
+      "top_clusters": [
+        [
+          2,
+          9
+        ],
+        [
+          13,
+          1
+        ]
+      ]
+    },
+    "insight": {
+      "dominant_theme": "Cluster 2",
+      "keywords": "dogs, loves, treat, training, small, little, eat, size, dog loves, don",
+      "top_terms": [
+        "treats",
+        "these",
+        "dog",
+        "she",
+        "treat",
+        "loves",
+        "hard",
+        "dogs",
+        "out",
+        "one"
+      ],
+      "sentiment": {
+        "positive_signals": 7,
+        "negative_signals": 1
+      },
+      "insight": "Users frequently discuss topics related to dogs, loves, treat, training, small, little, eat, size, dog loves, don. Common terms include treats, these, dog, she, treat. Overall sentiment is positive, with users appreciating key aspects of the product experience.",
+      "supporting_reviews": [
+        "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+        "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+        "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+        "Neither I nor my dogs could get treats out of this! I shook it and rolled it every which way, nothing came out. It wasn't easy to load, either. I tried it with tiny treats, it made no difference.<br /><br />I tried a few different times, we couldn't get treats out of it, so the dogs quickly lost interest. My friend said it's her dog's favorite treat dispensing toy, so I gave her another one instead of tossing mine in the trash.",
+        "My dog doesn't like most treats, but loves these.  She gives them 4 paws up!<br /><br />The product arrived quickly and saved me a half-hour drive to a pet store."
+      ]
+    },
+    "summary": {
+      "extractive": [
+        "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+        "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!",
+        "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier!"
+      ],
+      "short_summary": "Users share consistent feedback highlighting key product experience themes.",
+      "detailed_summary": "My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier! My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier! My dog loves the treats and she is actually less stiff after a hard day of playing!  A great treat for helping our pets to be healthier! Neither I nor my dogs could get treats out of this! I shook it and rolled it every which way, nothing came out. It wasn't easy to load, either. I tried it with tiny treats, it made no difference.<br /><br />I tried a few different times, we couldn't get treats out of it, so the dogs quickly lost interest. My friend said it's her dog's favorite treat dispensing toy, so I gave her another one instead of tossing mine in the trash. My dog doesn't like most treats, but loves these.  She gives them 4 paws up!<br /><br />The product arrived quickly and saved me a half-hour drive to a pet store. My dog doesn't like most treats, but loves these.  She gives them 4 paws up!<br /><br />The product arrived quickly and saved me a half-hour drive to a pet store. when I first received these doggie treats I was a little concern since they appeared to be TOO hard. My pup is 16 years old and missing a couple of teeth.  I gave her one, and she chowed down on it...and gave me the look...the look that says...more please...LOL...I lay out some milk bones and one of these treats..and she goes for Newman's first every time I tried it.. We don't have a dog, but we pet-sit for the neighbors and were hoping these treats would be welcome.  Sadly, the hound just pushed one around the floor and then abandoned it under the table.  Is it because they're so terribly hard ?  Is it some flavor (or lack of flavor) that only dogs can sense ?  Too bad the hound can't read and can't tell why these treats should be such a good healthy treat for him. my dogs go crazy over these treats! As soon as I open the bag they are there at my feet waiting and has made training my puppy so easy cause he is willing to do anything to get a treat :) I had a really picky dog who refuses any kind of biscuit type treat offered to him.  He eats some soft treats and loves these."
+    }
+  },
+  {
+    "query": "spicy flavor complaints",
+    "top_reviews": [
+      "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+      "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+      "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+      "I love spicy food and this product is really spicy and has good flavor at the same time. For some may even be too spicy to eat.",
+      "Seriously spicy, unlike other \"hot\" chilis. The con side is that there really isn't much taste to it other than spicy.",
+      "These are awesome, the flavor has just enough heat not to make it unbearable.  I highly recommend this product if you are one that likes spicy food.",
+      "I'll make this quick.<br />They taste \"alright\" at best.<br />They're unnecessarily hot, if they're going to be that hot they need flavor.<br />I feel sick after eating one.<br /><br />I have no problem with spicy foods but this is just ridiculous.",
+      "I was so excited about ordering this - at first I thought wow this is really good - but.... as time went by it became soso.  It really does not have that \"Spicy\" taste to it I thought it would.  Im glad I did order it but I will not order again.",
+      "I was so excited about ordering this - at first I thought wow this is really good - but.... as time went by it became soso.  It really does not have that \"Spicy\" taste to it I thought it would.  Im glad I did order it but I will not order again.",
+      "I ordered these as a Lightning Deal. Never tried it but it was like 50% off. I love spicy food and can never find anything I consider \"spicy\" anymore. Cooked these expecting \"spicy\" to be \"tangy\" as usual. WRONG!<br /><br />I drained 95% of the water out like I do with Ramen Noodles. Put the flavor packet on, and WOW it was SPICY. But I love it - great flavor. I had to cool my mouth down with chocolate milk. This from a guy who always orders the spiciest level at any ethnic eatery I go to.<br /><br />I'm sure if you don't drain all the water out before eating like I do, it will be fine. I plan on draining about 75% out next time. Finally, a food labeled \"spicy\" that actually is!"
+    ],
+    "cluster_info": {
+      "dominant_cluster": 12,
+      "cluster_counts": {
+        "12": 10
+      },
+      "top_clusters": [
+        [
+          12,
+          10
+        ]
+      ]
+    },
+    "insight": {
+      "dominant_theme": "Cluster 12",
+      "keywords": "sauce, hot, flavor, spicy, taste, use, chili, heat, hot sauce, ve",
+      "top_terms": [
+        "spicy",
+        "good",
+        "like",
+        "really",
+        "not",
+        "dont",
+        "from",
+        "food",
+        "flavor",
+        "time"
+      ],
+      "sentiment": {
+        "positive_signals": 8,
+        "negative_signals": 0
+      },
+      "insight": "Users frequently discuss topics related to sauce, hot, flavor, spicy, taste, use, chili, heat, hot sauce, ve. Common terms include spicy, good, like, really, not. Overall sentiment is positive, with users appreciating key aspects of the product experience.",
+      "supporting_reviews": [
+        "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+        "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+        "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+        "I love spicy food and this product is really spicy and has good flavor at the same time. For some may even be too spicy to eat.",
+        "Seriously spicy, unlike other \"hot\" chilis. The con side is that there really isn't much taste to it other than spicy."
+      ]
+    },
+    "summary": {
+      "extractive": [
+        "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+        "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy.",
+        "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy."
+      ],
+      "short_summary": "Users share consistent feedback highlighting key product experience themes.",
+      "detailed_summary": "Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy. Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy. Tasted good. Spicy. Those that don't like spicy should stay away from this. For the price paid, very good buy. I love spicy food and this product is really spicy and has good flavor at the same time. For some may even be too spicy to eat. Seriously spicy, unlike other \"hot\" chilis. The con side is that there really isn't much taste to it other than spicy. These are awesome, the flavor has just enough heat not to make it unbearable.  I highly recommend this product if you are one that likes spicy food. I'll make this quick.<br />They taste \"alright\" at best.<br />They're unnecessarily hot, if they're going to be that hot they need flavor.<br />I feel sick after eating one.<br /><br />I have no problem with spicy foods but this is just ridiculous. I was so excited about ordering this - at first I thought wow this is really good - but.... as time went by it became soso.  It really does not have that \"Spicy\" taste to it I thought it would.  Im glad I did order it but I will not order again. I was so excited about ordering this - at first I thought wow this is really good - but.... as time went by it became soso.  It really does not have that \"Spicy\" taste to it I thought it would.  Im glad I did order it but I will not order again. I ordered these as a Lightning Deal. Never tried it but it was like 50% off. I love spicy food and can never find anything I consider \"spicy\" anymore. Cooked these expecting \"spicy\" to be \"tangy\" as usual. WRONG!<br /><br />I drained 95% of the water out like I do with Ramen Noodles. Put the flavor packet on, and WOW it was SPICY. But I love it - great flavor. I had to cool my mouth down with chocolate milk. This from a guy who always orders the spiciest level at any ethnic eatery I go to.<br /><br />I'm sure if you don't drain all the water out before eating like I do, it will be fine. I plan on draining about 75% out next time. Finally, a food labeled \"spicy\" that actually is!"
+    }
+  },
+  {
+    "query": "sweetness too low in candy",
+    "top_reviews": [
+      "Compared to other sugar free candies this candy has little taste of the fruit or of the sweet.<br />It is not worth the value.",
+      "This is the perfect candy; not too sweet, not too bland! I love the consistency, the taste, and the bit size pieces! Buying some more rightttt...now.",
+      "Overrated. The candy taste lighter than altoilds with sugar. Too much money. Not worth it. It should cost less than a dollar.",
+      "I bought this candy because of 20% curiosity 80% that one reviewer's spectacularly written story.  The flavor of this candy can be pretty much summed up like this: without the fizz cola flavor is mostly sugar.  I didn't really realize this until I bought the candy. It had the flavor of flat cola, and the flavor is faint (otherwise it would probably be too sweet).  Was also a tad on the rubbery side for my tastes.  Between me, my two college roomates, and two other friends we BARELY managed to polish this thing off before we got too sick of them. 5 lbs is a lot of candy, even for five college guys.",
+      "This is a wonderful candy, not to sweet, you can taste the raspberry flavor unlike some candy where it is sickening sweet.  I thought these were great A+++",
+      "Not a good a Sweet-n-low candy but is much better for your teeth. Orange and yellow flavors are the best tasting",
+      "Too much sugar and does not taste great.<br />I tasted a lot of different varieties of honey, and this was far from the best.",
+      "I first encountered this candy as part of a sample pack when I purchased bulk coffee candy.  This tea candy is different from other hard candies--a pleasant surprise.  It tastes very much like sweetened iced tea, but not too sweet, it has just the right amount of cane sugar to give it a very natural tasting sweetness.  This is not your typical sugared candy, you know typical supermarket candies that overwhelm you with a rush of sugar.  This tea candy is very mild in sweetness compared to other candies.  I highly recommend it.",
+      "Too sweet for my taste... I had to add egg yolks to it, or dry poppy seeds and milk, to make it less sweet. I will not buy it again.",
+      "I dont get it. This candy tastes like altoids with a  little sugar.  I was looking for a good mint candy. This isnt it."
+    ],
+    "cluster_info": {
+      "dominant_cluster": 3,
+      "cluster_counts": {
+        "3": 6,
+        "29": 3,
+        "34": 1
+      },
+      "top_clusters": [
+        [
+          3,
+          6
+        ],
+        [
+          29,
+          3
+        ],
+        [
+          34,
+          1
+        ]
+      ]
+    },
+    "insight": {
+      "dominant_theme": "Cluster 3",
+      "keywords": "taste, sweet, use, free, syrup, flavor, sugar free, stevia, coffee, honey",
+      "top_terms": [
+        "candy",
+        "not",
+        "too",
+        "sugar",
+        "sweet",
+        "taste",
+        "much",
+        "flavor",
+        "other",
+        "candies"
+      ],
+      "sentiment": {
+        "positive_signals": 5,
+        "negative_signals": 0
+      },
+      "insight": "Users frequently discuss topics related to taste, sweet, use, free, syrup, flavor, sugar free, stevia, coffee, honey. Common terms include candy, not, too, sugar, sweet. Overall sentiment is positive, with users appreciating key aspects of the product experience.",
+      "supporting_reviews": [
+        "Compared to other sugar free candies this candy has little taste of the fruit or of the sweet.<br />It is not worth the value.",
+        "This is the perfect candy; not too sweet, not too bland! I love the consistency, the taste, and the bit size pieces! Buying some more rightttt...now.",
+        "Overrated. The candy taste lighter than altoilds with sugar. Too much money. Not worth it. It should cost less than a dollar.",
+        "I bought this candy because of 20% curiosity 80% that one reviewer's spectacularly written story.  The flavor of this candy can be pretty much summed up like this: without the fizz cola flavor is mostly sugar.  I didn't really realize this until I bought the candy. It had the flavor of flat cola, and the flavor is faint (otherwise it would probably be too sweet).  Was also a tad on the rubbery side for my tastes.  Between me, my two college roomates, and two other friends we BARELY managed to polish this thing off before we got too sick of them. 5 lbs is a lot of candy, even for five college guys.",
+        "This is a wonderful candy, not to sweet, you can taste the raspberry flavor unlike some candy where it is sickening sweet.  I thought these were great A+++"
+      ]
+    },
+    "summary": {
+      "extractive": [
+        "Compared to other sugar free candies this candy has little taste of the fruit or of the sweet.<br />It is not worth the value.",
+        "This is the perfect candy; not too sweet, not too bland! I love the consistency, the taste, and the bit size pieces! Buying some more rightttt...now.",
+        "Overrated. The candy taste lighter than altoilds with sugar. Too much money. Not worth it. It should cost less than a dollar."
+      ],
+      "short_summary": "Users share consistent feedback highlighting key product experience themes.",
+      "detailed_summary": "Compared to other sugar free candies this candy has little taste of the fruit or of the sweet.<br />It is not worth the value. This is the perfect candy; not too sweet, not too bland! I love the consistency, the taste, and the bit size pieces! Buying some more rightttt...now. Overrated. The candy taste lighter than altoilds with sugar. Too much money. Not worth it. It should cost less than a dollar. I bought this candy because of 20% curiosity 80% that one reviewer's spectacularly written story.  The flavor of this candy can be pretty much summed up like this: without the fizz cola flavor is mostly sugar.  I didn't really realize this until I bought the candy. It had the flavor of flat cola, and the flavor is faint (otherwise it would probably be too sweet).  Was also a tad on the rubbery side for my tastes.  Between me, my two college roomates, and two other friends we BARELY managed to polish this thing off before we got too sick of them. 5 lbs is a lot of candy, even for five college guys. This is a wonderful candy, not to sweet, you can taste the raspberry flavor unlike some candy where it is sickening sweet.  I thought these were great A+++ Not a good a Sweet-n-low candy but is much better for your teeth. Orange and yellow flavors are the best tasting Too much sugar and does not taste great.<br />I tasted a lot of different varieties of honey, and this was far from the best. I first encountered this candy as part of a sample pack when I purchased bulk coffee candy.  This tea candy is different from other hard candies--a pleasant surprise.  It tastes very much like sweetened iced tea, but not too sweet, it has just the right amount of cane sugar to give it a very natural tasting sweetness.  This is not your typical sugared candy, you know typical supermarket candies that overwhelm you with a rush of sugar.  This tea candy is very mild in sweetness compared to other candies.  I highly recommend it. Too sweet for my taste... I had to add egg yolks to it, or dry poppy seeds and milk, to make it less sweet. I will not buy it again. I dont get it. This candy tastes like altoids with a  little sugar.  I was looking for a good mint candy. This isnt it."
+    }
+  },
+  {
+    "query": "coffee aroma weak",
+    "top_reviews": [
+      "The coffee lacks body, taste, and aroma.  We are generally frugal and throw little away; we will throw this coffee out.",
+      "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+      "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+      "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+      "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+      "When I come down the stairs in the morning, and the kids are \"making coffee\" I smell the great aroma of the original Maxwell House coffee that I grew up with. When I get to the kitchen, I have a great cup of coffee, with no mess and no waste. The coffee disc's are expensive, but there is no \"day old\" coffee left sitting in the pot. This coffee is nothing fancy, not too strong, and taste good every time I fix a cup.",
+      "When I come down the stairs in the morning, and the kids are \"making coffee\" I smell the great aroma of the original Maxwell House coffee that I grew up with. When I get to the kitchen, I have a great cup of coffee, with no mess and no waste. The coffee disc's are expensive, but there is no \"day old\" coffee left sitting in the pot. This coffee is nothing fancy, not too strong, and taste good every time I fix a cup.",
+      "When I come down the stairs in the morning, and the kids are \"making coffee\" I smell the great aroma of the original Maxwell House coffee that I grew up with. When I get to the kitchen, I have a great cup of coffee, with no mess and no waste. The coffee disc's are expensive, but there is no \"day old\" coffee left sitting in the pot. This coffee is nothing fancy, not too strong, and taste good every time I fix a cup.",
+      "great coffee, smell as good as it tastes. Most coffee i tried has different aroma than its taste, but this one is consistent. Will buy again.",
+      "The coffee smells great.  I was so excited to try it because of its wonderful aroma.  I was very disappointed in the taste.  It was very weak.  Maybe I used too much water but not more than I normally use with other coffee."
+    ],
+    "cluster_info": {
+      "dominant_cluster": 1,
+      "cluster_counts": {
+        "11": 1,
+        "1": 9
+      },
+      "top_clusters": [
+        [
+          1,
+          9
+        ],
+        [
+          11,
+          1
+        ]
+      ]
+    },
+    "insight": {
+      "dominant_theme": "Cluster 1",
+      "keywords": "flavor, taste, cup, strong, bold, roast, bitter, flavored, dark, vanilla",
+      "top_terms": [
+        "coffee",
+        "like",
+        "strong",
+        "have",
+        "cup",
+        "you",
+        "squeezing",
+        "fingers",
+        "not",
+        "great"
+      ],
+      "sentiment": {
+        "positive_signals": 5,
+        "negative_signals": 0
+      },
+      "insight": "Users frequently discuss topics related to flavor, taste, cup, strong, bold, roast, bitter, flavored, dark, vanilla. Common terms include coffee, like, strong, have, cup. Overall sentiment is positive, with users appreciating key aspects of the product experience.",
+      "supporting_reviews": [
+        "The coffee lacks body, taste, and aroma.  We are generally frugal and throw little away; we will throw this coffee out.",
+        "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+        "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+        "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+        "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much."
+      ]
+    },
+    "summary": {
+      "extractive": [
+        "The coffee lacks body, taste, and aroma.  We are generally frugal and throw little away; we will throw this coffee out.",
+        "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much.",
+        "I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much."
+      ],
+      "short_summary": "Users share consistent feedback highlighting key product experience themes.",
+      "detailed_summary": "The coffee lacks body, taste, and aroma.  We are generally frugal and throw little away; we will throw this coffee out. I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much. I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much. I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much. I like my coffee strong so to me this tastes like strong tea that smells vaguely of coffee.  I prepared it the way you would tea--just put it in the cup and poured.  Maybe I should have done something differently but that's all we have (except a conventional coffee machine).  I tried squeezing it with my fingers and that helped a bit.  The only problem was that afterwards my fingers smelled like bitter coffee.  Squeezing the coffee bag with a spoon didn't produce quite the same result.<br /><br />So bottom line: if you like weak coffee, this is worth a try I think.  Otherwise, not so much. When I come down the stairs in the morning, and the kids are \"making coffee\" I smell the great aroma of the original Maxwell House coffee that I grew up with. When I get to the kitchen, I have a great cup of coffee, with no mess and no waste. The coffee disc's are expensive, but there is no \"day old\" coffee left sitting in the pot. This coffee is nothing fancy, not too strong, and taste good every time I fix a cup. When I come down the stairs in the morning, and the kids are \"making coffee\" I smell the great aroma of the original Maxwell House coffee that I grew up with. When I get to the kitchen, I have a great cup of coffee, with no mess and no waste. The coffee disc's are expensive, but there is no \"day old\" coffee left sitting in the pot. This coffee is nothing fancy, not too strong, and taste good every time I fix a cup. When I come down the stairs in the morning, and the kids are \"making coffee\" I smell the great aroma of the original Maxwell House coffee that I grew up with. When I get to the kitchen, I have a great cup of coffee, with no mess and no waste. The coffee disc's are expensive, but there is no \"day old\" coffee left sitting in the pot. This coffee is nothing fancy, not too strong, and taste good every time I fix a cup. great coffee, smell as good as it tastes. Most coffee i tried has different aroma than its taste, but this one is consistent. Will buy again. The coffee smells great.  I was so excited to try it because of its wonderful aroma.  I was very disappointed in the taste.  It was very weak.  Maybe I used too much water but not more than I normally use with other coffee."
+    }
+  }
+]
