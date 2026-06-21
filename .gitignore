@@ -12,12 +12,11 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Large data files (raw/preprocessing only)
+# Runtime and generated data artifacts
 data/
-embeddings/amazon_embeddings.npy
-
-# Runtime artifacts are tracked via Git LFS
-# faiss_index/, analysis/, embeddings/*.json are NOT ignored
+analysis/
+embeddings/
+faiss_index/
 
 # OS files
 .DS_Store
