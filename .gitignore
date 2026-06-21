@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data files (raw/preprocessing only)
+data/
+embeddings/amazon_embeddings.npy
+
+# Runtime artifacts are tracked via Git LFS
+# faiss_index/, analysis/, embeddings/*.json are NOT ignored
+
+# OS files
+.DS_Store
+Thumbs.db

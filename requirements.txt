@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+scikit-learn
+tqdm
+beautifulsoup4
+matplotlib
+wordcloud
+openai
+python-dotenv
