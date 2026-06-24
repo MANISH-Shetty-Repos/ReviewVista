@@ -2,7 +2,7 @@
 
 ## Overview
 
-ReviewVista is a production-ready customer feedback intelligence platform designed to transform unstructured product reviews into actionable business insights. The platform combines semantic vector search, unsupervised topic discovery, sentiment analysis, and Retrieval-Augmented Generation (RAG) to help businesses understand customer opinions, identify recurring issues, compare products, and generate evidence-based recommendations.
+ReviewVista is a customer feedback intelligence platform designed to transform unstructured product reviews into actionable business insights. The platform combines semantic vector search, unsupervised topic discovery, sentiment analysis, and Retrieval-Augmented Generation (RAG) to help businesses understand customer opinions, identify recurring issues, compare products, and generate evidence-based recommendations.
 
 The project demonstrates an end-to-end AI pipeline covering data ingestion, preprocessing, embedding generation, vector indexing, semantic retrieval, topic clustering, analytics, report generation, and an interactive RAG-powered assistant.
 
